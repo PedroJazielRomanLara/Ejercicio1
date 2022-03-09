@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">programs_1</string>
+    <string name="v1">Valor 1:</string>
+    <string name="v2">Valor 2:</string>
+    <string name="res">El mayor es: </string>
+    <string name="cal">Calcular</string>
+    <string name="dato">Ingresa valor:</string>
+    <string name="may">EL MAYOR DE DOS NUMEROS</string>
+</resources>
